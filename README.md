@@ -4,7 +4,11 @@ Certified Data Analyst skilled in Excel, SQL, Power BI, Tableau, Python, and Loo
 linkedin: https://www.linkedin.com/in/abhiramkumar92/
 # Skills:
 **Programming & Databases:** Python, Pandas, NumPy, Statistics, SQL, MySQL
+
 **Data Analysis & Visualization:** Power BI, Tableau, Looker Studio, Excel
+
 **Tools & Techniques:** ETL, Data Cleaning, MS Office, Advanced Excel (Pivot Tables, VLOOKUP), Reporting
+
 **Soft Skills:** Problem-Solving, Communication, Critical thinking, Attention to detail, Continuous learning
+
 
